@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **terminalkarabo@gmail.com**
 
-- 📄 Know about my experiences [https://feeltunes-tfw8.onrender.com/](https://feeltunes-tfw8.onrender.com/)
+- 📄 Know about my experiences [termication.github.io/my-webdemo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
