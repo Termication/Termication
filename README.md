@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **terminalkarabo@gmail.com**
 
-- 📄 Know about my experiences [termication.github.io/my-webdemo/)
+- 📄 Know about my experiences [https://termication.github.io/](https://termication.github.io/my-webdemo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
