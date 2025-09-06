@@ -2,7 +2,6 @@
 <h3 align="center">A passionate fullstack developer from South Africa</h3>
 
 
-
 - 📫 How to reach me **terminalkarabo@gmail.com**
 
 - 📄 Know about my experiences [https://my-webdemo-git-main-termications-projects.vercel.app/)
